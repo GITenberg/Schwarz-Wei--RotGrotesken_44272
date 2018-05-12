@@ -1,0 +1,34 @@
+_repo: Schwarz-Wei--RotGrotesken_44272
+_version: 0.1.0
+alternative_title: 'Schwarz-Weiss-Rot: Grotesken'
+contributor:
+  illustrator:
+    agent_name: Meidner, Ludwig
+    birthdate: 1884
+    deathdate: 1966
+    gutenberg_agent_id: '34811'
+    url: http://www.gutenberg.org/2009/agents/34811
+covers:
+- cover_type: archival
+  image_path: 44272-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Mynona
+    birthdate: 1871
+    deathdate: 1946
+    gutenberg_agent_id: '42667'
+    url: http://www.gutenberg.org/2009/agents/42667
+description: ''
+gutenberg_issued: '2013-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44272'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832 -- Miscellanea'
+- !lcc 'PT'
+title: 'Schwarz-Weiß-Rot: Grotesken'
+url: http://www.gutenberg.org/ebooks/44272
